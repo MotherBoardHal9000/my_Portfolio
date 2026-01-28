@@ -480,12 +480,12 @@ canvas{
 
 }
 .mock--green{
-  background-image: url(./img/main/nano_IT_renewal.png);
+  background-image: url(../img/nanoITremake.png);
   background-size: cover;
   background-repeat: none;
 }
 .mock--blue{
- background-image: url(img/funSMSREmake.png);
+ background-image: url(../img/funSMSREmake.png);
    background-size: cover;
   background-repeat: none;
 }
@@ -512,7 +512,7 @@ canvas{
 }
 .thumb--photo{
 
-  background-image: url(/img/retroBoys.png);
+  background-image: url(../img/retroBoys.png);
     background-size: cover;
   background-repeat: none;
 
@@ -525,7 +525,7 @@ canvas{
 }
 
 .thumb--retro{
-  background-image: url(/img/seoulUniversity.png);
+  background-image: url(../img/seoulUniversity.png);
   background-size: cover;
   background-repeat: none;
 
@@ -565,18 +565,18 @@ canvas{
   border: 1px solid rgba(0,0,0,.06);
 }
 .biz--a{
-background-image: url(/img/funSMSremake001.png);
+background-image: url(../img/funSMSremake001.png);
 background-position: center;
 background-size: cover;
 
 }
 .biz--b{
-background-image: url(/img/funSMSremake002.png);
+background-image: url(../img/funSMSremake002.png);
 background-position: center;
 background-size: cover;
 }
 .biz--c{
-background-image: url(/img/funSMSremake003.png);
+background-image: url(../img/funSMSremake003.png);
 background-position: center;
 background-size: cover;
 }
